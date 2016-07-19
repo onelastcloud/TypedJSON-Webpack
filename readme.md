@@ -1,4 +1,4 @@
-# TypedJSON
+# TypedJSON with Webpack support ( CommonJS )
 
 *v0.1.4 experimental release*
 
