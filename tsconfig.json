@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "outDir": "./js/",
+    "noImplicitAny": false,
+    "noEmitOnError": false,
+    "emitDecoratorMetadata": true,
+    "removeComments": false,
+    "declaration": true,
+    "module": "commonjs",
+    "sourceMap": true,
+    "target": "ES5",
+    "jsx": "react",
+    "experimentalDecorators": true,
+    "allowUnusedLabels": true
+  },
+  "files" : [
+    "./src/typed-json.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
